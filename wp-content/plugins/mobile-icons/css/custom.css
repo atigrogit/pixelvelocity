@@ -1,0 +1,29 @@
+.mobileShow { display: none;
+
+padding: 0px 8px !important;
+
+}
+
+
+
+.fa{
+
+    color:#004495;
+
+   }
+
+.fa-lg
+
+{
+
+	font-size: 1.111em !important;
+
+}
+
+
+
+@media only screen
+
+   and (min-device-width : 320px)
+
+   and (max-device-width : 640px){ .mobileShow { display: inline;}}

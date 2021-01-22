@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blog &#8211; Pixel Velocity</title>
+	<atom:link href="/blog/category/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 03 Dec 2020 19:34:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Why Live Streaming Video from Remote Oilfields is a Bad Idea</title>
+		<link>/blog/why-live-streaming-video-from-remote-oilfields-is-a-bad-idea/</link>
+					<comments>/blog/why-live-streaming-video-from-remote-oilfields-is-a-bad-idea/#respond</comments>
+		
+		<dc:creator><![CDATA[Pixel Velocity]]></dc:creator>
+		<pubDate>Tue, 18 Feb 2020 20:08:28 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://www.pixel-velocity.com/?p=4392</guid>
+
+					<description><![CDATA[<p>Remote video monitoring is needed in the oil and gas industry to reduce windshield time, improve safety, and scale worker productivity. However, some solutions require video to be streamed to the cloud or a data center. Is that the best solution? No. Live streaming video to the cloud may seem to be an appealing choice, [...]</p>
+<p>The post <a rel="nofollow" href="/blog/why-live-streaming-video-from-remote-oilfields-is-a-bad-idea/">Why Live Streaming Video from Remote Oilfields is a Bad Idea</a> appeared first on <a rel="nofollow" href="/">Pixel Velocity</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/blog/why-live-streaming-video-from-remote-oilfields-is-a-bad-idea/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Managing Video in Remote Oilfields</title>
+		<link>/blog/managing-video-remote-oilfields/</link>
+					<comments>/blog/managing-video-remote-oilfields/#respond</comments>
+		
+		<dc:creator><![CDATA[Pixel Velocity]]></dc:creator>
+		<pubDate>Thu, 10 Oct 2019 20:16:21 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://www.pixel-velocity.com/?p=4366</guid>
+
+					<description><![CDATA[<p>By Steve Fleischmann, V.P. Business Development, Pixel Velocity and Jonathan Murray, CEO, Pixel Velocity Published October 10, 2019 The oil and gas industry is continuously looking for operational efficiencies to reduce costs, improve profits, and improve safety practices. One approach is to use video and audio, in addition to other sensors, to monitor remote locations. [...]</p>
+<p>The post <a rel="nofollow" href="/blog/managing-video-remote-oilfields/">Managing Video in Remote Oilfields</a> appeared first on <a rel="nofollow" href="/">Pixel Velocity</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/blog/managing-video-remote-oilfields/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Automating Oil and Gas Field Operations</title>
+		<link>/blog/automating-oil-and-gas-field-operations/</link>
+		
+		<dc:creator><![CDATA[Pixel Velocity]]></dc:creator>
+		<pubDate>Thu, 29 Nov 2018 20:34:41 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://www.pixel-velocity.com/?p=2081</guid>
+
+					<description><![CDATA[<p>Pixel Velocity's CEO, Jonathan Murray, recently sat down with Energy CIO Insights magazine to talk about the benefits of automating oil and gas field operations.   Pixel Velocity is one of Energy CIO Insights' 2018 Top 10 Digital Oil Field Solution Providers.</p>
+<p>The post <a rel="nofollow" href="/blog/automating-oil-and-gas-field-operations/">Automating Oil and Gas Field Operations</a> appeared first on <a rel="nofollow" href="/">Pixel Velocity</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Detect Gas Leaks Remotely in Real Time</title>
+		<link>/blog/detect-gas-leaks-remotely-in-real-time/</link>
+					<comments>/blog/detect-gas-leaks-remotely-in-real-time/#respond</comments>
+		
+		<dc:creator><![CDATA[Pixel Velocity]]></dc:creator>
+		<pubDate>Tue, 18 Sep 2018 19:26:14 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://www.pixel-velocity.com/?p=2062</guid>
+
+					<description><![CDATA[<p>Hydrocarbon leaks are an ongoing challenge in oil and gas production, processing, storage and delivery. Asset integrity programs strive tirelessly to protect the public, workers, corporate reputations, and stakeholder value. A cost-effective tool that helps operators detect leaks and prevent larger problems has significant value. Pixel Velocity has a software solution that transforms proven optical [...]</p>
+<p>The post <a rel="nofollow" href="/blog/detect-gas-leaks-remotely-in-real-time/">Detect Gas Leaks Remotely in Real Time</a> appeared first on <a rel="nofollow" href="/">Pixel Velocity</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/blog/detect-gas-leaks-remotely-in-real-time/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Digitizing Field Service in the Oil and Gas Industry</title>
+		<link>/blog/digitizing-field-service-in-the-oil-and-gas-industry/</link>
+					<comments>/blog/digitizing-field-service-in-the-oil-and-gas-industry/#respond</comments>
+		
+		<dc:creator><![CDATA[Pixel Velocity]]></dc:creator>
+		<pubDate>Wed, 29 Aug 2018 17:29:48 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://www.pixel-velocity.com/?p=2049</guid>
+
+					<description><![CDATA[<p>Remote oil and gas assets are largely managed through routine site visits by operators who drive company-owned vehicles on scheduled routes at scheduled frequencies. This is inefficient, expensive, and wasteful. Many sites do not need routine visits. Events that require attention may not occur when an operator is on site. The cost of visiting low-producing [...]</p>
+<p>The post <a rel="nofollow" href="/blog/digitizing-field-service-in-the-oil-and-gas-industry/">Digitizing Field Service in the Oil and Gas Industry</a> appeared first on <a rel="nofollow" href="/">Pixel Velocity</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/blog/digitizing-field-service-in-the-oil-and-gas-industry/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
